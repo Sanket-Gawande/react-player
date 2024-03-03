@@ -1,0 +1,20 @@
+{
+  "name": "react-music",
+  "version": "1.0.0",
+  "description": "Javascript library to handle music player states in web using custom hooks",
+  "main": "index.js",
+  "author": "Sanket-Gawande",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node index && node index"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "zustand": "^4.5.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.61",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
